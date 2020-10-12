@@ -693,6 +693,11 @@ MAIN PORTFOLIO SLIDER
 #main-slider .owl-controls.clickable .owl-page:hover span {
   background: #379392;
 }
+
+ code .MathJax {
+  color: black;
+  background-color: white;
+}
 /*
 =====================
 ABOUT
@@ -2112,3 +2117,5 @@ a.list-group-item.active > .badge,
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
+
+
